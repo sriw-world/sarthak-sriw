@@ -13,6 +13,6 @@ My Latest Blogs:<br>
 - [Docker Compose](https://medium.com/@sarthak3398/docker-compose-afcfc9586dbd)
 
 -  💬 Ask me about anything, I am happy to help;
-- :mailbox:How to reach me::email:<br>sarthak3398@gmail.com<br>
+- :mailbox:How to reach me::email:sarthak3398@gmail.com<br>
 - 📝[Resume](https://drive.google.com/file/d/1ZYJdsgEYXdftWdjujXoaswu4oxJgZQy4/view?usp=sharing)
 
