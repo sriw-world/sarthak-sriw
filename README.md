@@ -12,7 +12,7 @@ Blogs:
 
 ![How to install WordPress on Docker with MySQL Backend](https://medium.com/@sarthak3398/how-to-install-wordpress-on-docker-using-mysql-backend-1611641d14ac)
 
-![Docker COmpose](https://medium.com/@sarthak3398/docker-compose-afcfc9586dbd)
+![https://medium.com/@sarthak3398/docker-compose-afcfc9586dbd](Docker COmpose)
 
 :mailbox:How to reach me::email:
 sarthak3398@gmail.com
