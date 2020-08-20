@@ -12,6 +12,7 @@ My Latest Blogs:<br>
 - [How to install WordPress on Docker with MySQL Backend](https://medium.com/@sarthak3398/how-to-install-wordpress-on-docker-using-mysql-backend-1611641d14ac)<br>
 - [Docker Compose](https://medium.com/@sarthak3398/docker-compose-afcfc9586dbd)
 
-:mailbox:How to reach me::email:<br>sarthak3398@gmail.com<br>
-
+-  💬 Ask me about anything, I am happy to help;
+- :mailbox:How to reach me::email:<br>sarthak3398@gmail.com<br>
+- 📝[Resume](https://drive.google.com/file/d/1ZYJdsgEYXdftWdjujXoaswu4oxJgZQy4/view?usp=sharing)
 
