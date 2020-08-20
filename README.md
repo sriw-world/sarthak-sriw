@@ -5,7 +5,14 @@
 :books:Skillset: Machine Learning,Deep Learning,Big Data,Model Deployment,Flutter,SQL
 
 Blogs:
+
 ![Deploying Sentiment Analysis model to EC2 instance](https://medium.com/@sarthak3398/deploying-sentiment-analysis-model-to-ec2-instance-c3e8ad900e98)
+
+![Deployment of California House Price Prediction model on AWS Lambda](https://medium.com/@sarthak3398/deployment-of-california-house-price-prediction-model-on-aws-331ead5738b6)
+
+![How to install WordPress on Docker with MySQL Backend](https://medium.com/@sarthak3398/how-to-install-wordpress-on-docker-using-mysql-backend-1611641d14ac)
+
+![Docker COmpose](https://medium.com/@sarthak3398/docker-compose-afcfc9586dbd)
 
 :mailbox:How to reach me::email:
 sarthak3398@gmail.com
