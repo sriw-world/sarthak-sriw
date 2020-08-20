@@ -12,5 +12,5 @@ My Latest Blogs:<br>
 [Docker Compose](https://medium.com/@sarthak3398/docker-compose-afcfc9586dbd)
 
 :mailbox:How to reach me::email:<br>sarthak3398@gmail.com<br>
-:link:Connect me on Linkedin : https://www.linkedin.com/in/sarthak-srivastava-bb3608157/<br>
+
 
