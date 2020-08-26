@@ -5,6 +5,9 @@
 :boy:This is Sarthak Srivastava pursuing Btech from IIIT Ranchi bought and did schooling from Allahabad . I love exploring new technology like ml natural Language Processing, computer vision and have good command over it. 
 
 :books:Skillset: Machine Learning,Deep Learning,Big Data,Model Deployment,Flutter,SQL
+<img align="left" alt="Python" width="26px" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
+<img align="left" alt="Dart" width="26px" src="<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>" />
+
 
 My Latest Blogs:<br>
 - [Deploying Sentiment Analysis model to EC2 instance](https://medium.com/@sarthak3398/deploying-sentiment-analysis-model-to-ec2-instance-c3e8ad900e98)<br>
@@ -24,4 +27,3 @@ My Latest Blogs:<br>
 
 </details>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
