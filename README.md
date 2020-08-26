@@ -17,3 +17,9 @@ My Latest Blogs:<br>
 :mailbox:How to reach me::email:sarthak3398@gmail.com<br>
 📝[Resume](https://drive.google.com/file/d/1ZYJdsgEYXdftWdjujXoaswu4oxJgZQy4/view?usp=sharing)<br>
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-pi-amber.vercel.app/api?username=sarthak-sriw&show_icons=true&hide_border=true" />
+
+</details>
