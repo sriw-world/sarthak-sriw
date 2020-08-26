@@ -2,7 +2,7 @@
 
 <p><a href="https://www.linkedin.com/in/sarthak-srivastava-bb3608157/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@sarthak3398"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
 
-:boy:This is Sarthak Srivastava pursuing Btech from IIIT Ranchi bought and did schooling from Allahabad . I love exploring new technology like ml natural Language Processing, computer vision and have good command over it. 
+:boy:This is Sarthak Srivastava pursuing Btech from IIIT Ranchi bought and did schooling from Allahabad . My field of interest are Machine Learning,Natural Language Processing, Computer Vision,Model Deployment,Big Data Tools and have good command over it. 
 
 ### Languages and Tools:
 
@@ -29,6 +29,7 @@
 ### Connect with me
 💬 Ask me about anything, I am happy to help<br>
 :mailbox:How to reach me::email:sarthak3398@gmail.com<br>
+
 📝[Resume](https://drive.google.com/file/d/1ZYJdsgEYXdftWdjujXoaswu4oxJgZQy4/view?usp=sharing)<br>
 
 
