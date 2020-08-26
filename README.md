@@ -28,7 +28,7 @@
 
 ### Connect with me
 💬 Ask me about anything, I am happy to help<br>
-:mailbox:How to reach me::email:sarthak3398@gmail.com <p><a href="https://www.instagram.com/sarthak_sriw/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height=25></a><a href="https://twitter.com/Sriw41118165"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height=25></a></p>
+:mailbox:How to reach me::email:sarthak3398@gmail.com <a href="https://www.instagram.com/sarthak_sriw/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height=25></a> <a href="https://twitter.com/Sriw41118165"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height=25></a>
 📝[Resume](https://drive.google.com/file/d/1ZYJdsgEYXdftWdjujXoaswu4oxJgZQy4/view?usp=sharing)<br>
 
 
