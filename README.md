@@ -6,7 +6,7 @@
 
 :books:Skillset: Machine Learning,Deep Learning,Big Data,Model Deployment,Flutter,SQL
 
-<p><img src="<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>" height=25> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" height=25> <a href="https://medium.com/@sarthak3398"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
+<p><img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>" height=25> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" height=25> <a href="https://medium.com/@sarthak3398"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
 
 My Latest Blogs:<br>
 - [Deploying Sentiment Analysis model to EC2 instance](https://medium.com/@sarthak3398/deploying-sentiment-analysis-model-to-ec2-instance-c3e8ad900e98)<br>
