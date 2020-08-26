@@ -29,12 +29,11 @@
 ### Connect with me
 💬 Ask me about anything, I am happy to help<br>
 :mailbox:How to reach me::email:sarthak3398@gmail.com<br>
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 📝[Resume](https://drive.google.com/file/d/1ZYJdsgEYXdftWdjujXoaswu4oxJgZQy4/view?usp=sharing)<br>
 
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-pi-amber.vercel.app/api?username=sarthak-sriw&show_icons=true&hide_border=true" />
+### Github Stats
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-pi-amber.vercel.app/api?username=sarthak-sriw&show_icons=true&hide_border=true" />
 
 
 
