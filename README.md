@@ -1,6 +1,6 @@
 ### Hi there  :wave: 💻
 
-<p><a href="https://www.linkedin.com/in/sarthak-srivastava-bb3608157/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@sarthak3398"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
+<p><a href="https://www.linkedin.com/in/sarthak-srivastava-bb3608157/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@sarthak3398"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a><a href="https://kaggle.com/sarthak3398"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=25></a></p>
 
 :boy:This is Sarthak Srivastava pursuing Btech from IIIT Ranchi bought and did schooling from Allahabad . My field of interest are Machine Learning,Natural Language Processing, Computer Vision,Model Deployment,Big Data Tools and have good command over it. 
 
