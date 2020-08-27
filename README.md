@@ -39,8 +39,6 @@
 ---
 
 ### Github Stats
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-pi-amber.vercel.app/api?username=sarthak-sriw&show_icons=true&hide_border=true" />
-
 [![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-sriw)](https://github.com/sarthak-sriw/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-sriw)](https://github.com/sarthak-sriw/github-readme-stats)
