@@ -24,6 +24,7 @@
 ---
 
 ### My Latest Blogs:<br>
+-[Deploying Wordpress on top of Google Cloud Platform with Kubernetes](https://medium.com/@sarthak3398/deploying-wordpress-on-top-of-google-cloud-platform-with-kubernetes-b502347bbd4e)<br>
 - [Deploying Sentiment Analysis model to EC2 instance](https://medium.com/@sarthak3398/deploying-sentiment-analysis-model-to-ec2-instance-c3e8ad900e98)<br>
 - [Deployment of California House Price Prediction model on AWS Lambda](https://medium.com/@sarthak3398/deployment-of-california-house-price-prediction-model-on-aws-331ead5738b6)<br>
 - [How to install WordPress on Docker with MySQL Backend](https://medium.com/@sarthak3398/how-to-install-wordpress-on-docker-using-mysql-backend-1611641d14ac)<br>
