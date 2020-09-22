@@ -25,6 +25,7 @@
 
 ### My Latest Blogs:<br>
 - [Deploying Wordpress on top of Google Cloud Platform with Kubernetes](https://medium.com/@sarthak3398/deploying-wordpress-on-top-of-google-cloud-platform-with-kubernetes-b502347bbd4e)<br>
+- [AWS Case Study Unilever](https://medium.com/@sarthak3398/aws-case-study-unilever-c032260c6e0e?sk=6252b15694730d6df3ae071eab19c314)<br>
 - [How Big Data is Tackled by Companies](https://medium.com/@sarthak3398/distributed-storage-cluster-and-hadoop-2fa9027580f0)<br>
 - [Deploying Sentiment Analysis model to EC2 instance](https://medium.com/@sarthak3398/deploying-sentiment-analysis-model-to-ec2-instance-c3e8ad900e98)<br>
 - [Deployment of California House Price Prediction model on AWS Lambda](https://medium.com/@sarthak3398/deployment-of-california-house-price-prediction-model-on-aws-331ead5738b6)<br>
