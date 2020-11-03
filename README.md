@@ -24,9 +24,11 @@
 ---
 
 ### My Latest Blogs:<br>
+- [Designing High Availability Architecture with S3 and CloudFront](https://sarthak3398.medium.com/designing-high-availability-architecture-with-s3-and-cloudfront-67684d6aa879)<br>
+- [Terraform basics and Launching an Ec2 instances using Terraform](https://medium.com/analytics-vidhya/terraform-basics-and-launching-an-ec2-instances-using-terraform-7c9fe0a60421?source=friends_link&sk=0948b7680c25f779d05e10b739a64497)<br>
+- [Volumes in Kubernetes](https://medium.com/analytics-vidhya/volumes-in-kubernetes-fa9f50ce4c8f?source=friends_link&sk=4eb1b850d69cc306dad9460006d551c4)<br>
+- [Using Kops to setup up Kubernetes Cluster](https://medium.com/analytics-vidhya/using-kops-to-setup-up-kubernetes-cluster-f83d83139f6a?source=friends_link&sk=8ccf63d0695e92a1c4d8da715bdf84a8)<br>
 - [Deploying Wordpress on top of Google Cloud Platform with Kubernetes](https://medium.com/@sarthak3398/deploying-wordpress-on-top-of-google-cloud-platform-with-kubernetes-b502347bbd4e)<br>
-- [AWS Case Study Unilever](https://medium.com/@sarthak3398/aws-case-study-unilever-c032260c6e0e?sk=6252b15694730d6df3ae071eab19c314)<br>
-- [How Big Data is Tackled by Companies](https://medium.com/@sarthak3398/distributed-storage-cluster-and-hadoop-2fa9027580f0)<br>
 - [Deploying Sentiment Analysis model to EC2 instance](https://medium.com/@sarthak3398/deploying-sentiment-analysis-model-to-ec2-instance-c3e8ad900e98)<br>
 - [Deployment of California House Price Prediction model on AWS Lambda](https://medium.com/@sarthak3398/deployment-of-california-house-price-prediction-model-on-aws-331ead5738b6)<br>
 - [How to install WordPress on Docker with MySQL Backend](https://medium.com/@sarthak3398/how-to-install-wordpress-on-docker-using-mysql-backend-1611641d14ac)<br>
