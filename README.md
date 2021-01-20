@@ -4,7 +4,7 @@
 
 :boy:This is Sarthak Srivastava pursuing Btech from IIIT Ranchi bought and did schooling from Allahabad . My field of interest are Machine Learning,Natural Language Processing, Computer Vision,Model Deployment,Big Data Tools and have good command over it. 
 
-📝[Resume](https://drive.google.com/file/d/1ZYJdsgEYXdftWdjujXoaswu4oxJgZQy4/view?usp=sharing)<br>
+📝[Resume]()<br>
 
 ### Languages and Tools:
 
@@ -45,7 +45,7 @@
 
 ### Connect with me
 💬 Ask me about anything, I am happy to help<br>
-:mailbox:How to reach me::email:sarthak3398@gmail.com 
+:mailbox:How to reach me::email:srid2674@gmail.com 
 <p>                <a href="https://www.instagram.com/sarthak_sriw/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height=25></a></p>
 
 ---
