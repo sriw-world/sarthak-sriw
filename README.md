@@ -45,7 +45,7 @@
 
 ### Connect with me
 💬 Ask me about anything, I am happy to help<br>
-:mailbox:How to reach me::email:srid2674@gmail.com 
+:mailbox:How to reach me::email:sarthak3398@gmail.com 
 <p>                <a href="https://www.instagram.com/sarthak_sriw/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height=25></a></p>
 
 ---
