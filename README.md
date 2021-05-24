@@ -2,7 +2,7 @@
 
 <p><a href="https://www.linkedin.com/in/sarthak-srivastava-bb3608157/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@sarthak3398"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://kaggle.com/sarthak3398"><img src="https://avatars0.githubusercontent.com/u/1336944?s=200&v=4" height=25></a></p>
 
-:boy:This is Sarthak Srivastava pursuing Btech from IIIT Ranchi bought and did schooling from Allahabad . My field of interest are Machine Learning,Natural Language Processing, Computer Vision,Model Deployment,Big Data Tools and have good command over it. 
+:boy:This is Sarthak Srivastava pursuing Btech from IIIT Ranchi bought and did schooling from Allahabad . My field of interest are Machine Learning,Natural Language Processing, Computer Vision,Model Deployment,Devops,Big Data Tools and have good command over it. 
 
 📝[Resume]()<br>
 
@@ -40,6 +40,9 @@
 
 ### My Youtube Videos:<br>
 - [Automation of Different Technology(AWS,Docker,LVM,Websever,Linux commands) using Python](https://youtu.be/D-grbG5-z-w)<br>
+- [Connecting AWS instance as Slave of Jenkins Master](https://youtu.be/-MJ1VdEMc9s)<br>
+- [Connecting Linux machine as Slave of Jenkins Master](https://youtu.be/rNOS9hAo_sQ)<br>
+- [Image Caption Generator End to End Project](https://youtu.be/d-ncJHuH8JM)<br>
 
 ---
 
