@@ -16,7 +16,7 @@
   <img src="https://simpleicons.org/icons/googlecloud.svg" height=50>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="100" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="80" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="60" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" height=50> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height=50> 
