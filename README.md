@@ -47,6 +47,7 @@
 - [Connecting AWS instance as Slave of Jenkins Master](https://youtu.be/-MJ1VdEMc9s)<br>
 - [Connecting Linux machine as Slave of Jenkins Master](https://youtu.be/rNOS9hAo_sQ)<br>
 - [Image Caption Generator End to End Project](https://youtu.be/d-ncJHuH8JM)<br>
+- [And many more](https://www.youtube.com/channel/UCLl49tLX8ZVmHoFjXDTohrQ)<br>
 
 ---
 
