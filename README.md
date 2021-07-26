@@ -29,6 +29,7 @@
 
 ### My Latest Blogs:<br>
 
+- [Integrating WordPress with AWS RDS On AWS Cloud](https://medium.com/analytics-vidhya/integrating-wordpress-with-aws-rds-on-aws-cloud-670edc59dc63?source=friends_link&sk=3d33da165970da96d20885d1d9f26479)
 - [Automating Hadoop Cluster Setup Using Ansible](https://sarthak3398.medium.com/automating-hadoop-cluster-setup-using-ansible-687b2f58d7d6)<br>
 - [Designing High Availability Architecture with S3 and CloudFront](https://sarthak3398.medium.com/designing-high-availability-architecture-with-s3-and-cloudfront-67684d6aa879)<br>
 - [Terraform basics and Launching an Ec2 instances using Terraform](https://medium.com/analytics-vidhya/terraform-basics-and-launching-an-ec2-instances-using-terraform-7c9fe0a60421?source=friends_link&sk=0948b7680c25f779d05e10b739a64497)<br>
