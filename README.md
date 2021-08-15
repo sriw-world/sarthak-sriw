@@ -4,7 +4,7 @@
 
 :boy:This is Sarthak Srivastava pursuing Btech from IIIT Ranchi bought and did schooling from Allahabad . My field of interest are Machine Learning,Natural Language Processing, Computer Vision,Model Deployment,Devops,Big Data Tools and have good command over it. 
 
-📝[Resume]()<br>
+📝[Resume](https://drive.google.com/file/d/1DifBAVNP6Utac8ayF-J90EotccUylpQn/view?usp=sharing)<br>
 
 ### Languages and Tools:
 
