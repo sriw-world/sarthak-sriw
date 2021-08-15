@@ -27,6 +27,9 @@
 
 ---
 
+### My YouTube Playlist
+- [I have made Talend(ETL Tool) tutorials to showcase various case scenarios.](https://youtube.com/playlist?list=PLR6Si5CCSui0l0HwpivcjKsn4W-J7EzpG)
+
 ### My Latest Blogs:<br>
 
 - [Integrating WordPress with AWS RDS On AWS Cloud](https://medium.com/analytics-vidhya/integrating-wordpress-with-aws-rds-on-aws-cloud-670edc59dc63?source=friends_link&sk=3d33da165970da96d20885d1d9f26479)
