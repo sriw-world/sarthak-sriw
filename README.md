@@ -27,8 +27,6 @@
 
 ---
 
-### My YouTube Playlist
-- [I have made Talend(ETL Tool) tutorials to showcase various case scenarios.](https://youtube.com/playlist?list=PLR6Si5CCSui0l0HwpivcjKsn4W-J7EzpG)
 
 ### My Latest Blogs:<br>
 
@@ -44,21 +42,10 @@
 - [How to install WordPress on Docker with MySQL Backend](https://medium.com/@sarthak3398/how-to-install-wordpress-on-docker-using-mysql-backend-1611641d14ac)<br>
 - [Docker Compose](https://medium.com/@sarthak3398/docker-compose-afcfc9586dbd)
 
----
 
-### My Youtube Videos:<br>
-- [Automation of Different Technology(AWS,Docker,LVM,Websever,Linux commands) using Python](https://youtu.be/D-grbG5-z-w)<br>
-- [Connecting AWS instance as Slave of Jenkins Master](https://youtu.be/-MJ1VdEMc9s)<br>
-- [Connecting Linux machine as Slave of Jenkins Master](https://youtu.be/rNOS9hAo_sQ)<br>
-- [Image Caption Generator End to End Project](https://youtu.be/d-ncJHuH8JM)<br>
-- [And many more](https://www.youtube.com/channel/UCLl49tLX8ZVmHoFjXDTohrQ)<br>
-
----
 
 ### Connect with me
 💬 Ask me about anything, I am happy to help<br>
-:mailbox:How to reach me::email:sarthak3398@gmail.com 
-<p>                <a href="https://www.instagram.com/sarthak_sriw/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height=25></a></p>
 
 ---
 
