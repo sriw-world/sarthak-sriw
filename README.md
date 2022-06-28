@@ -50,7 +50,6 @@
 ---
 
 ### Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sarthak-sriw)](https://github.com/sarthak-sriw/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-sriw)](https://github.com/sarthak-sriw/github-readme-stats)
 
