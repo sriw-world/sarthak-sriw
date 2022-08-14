@@ -2,9 +2,9 @@
 
 <p> <a href="https://medium.com/@sarthak3398"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> </p>
 
-:boy:This is Sarthak pursuing pursuing to learn and unskill in new technologies . My field of interest are Machine Learning,Natural Language Processing, Computer Vision,Model Deployment,Devops,Big Data Tools ,Cloud technologies and have good command over it. 
+:boy:This is Sarthak keen to learn and unskill in new technologies . My field of interest are Machine Learning, Natural Language Processing, Computer Vision, Devops, Big Data, Cloud technologies and have good command over it. 
 
-📝[Resume](https://drive.google.com/file/d/1DifBAVNP6Utac8ayF-J90EotccUylpQn/view?usp=sharing)<br>
+📝[Resume]()<br>
 
 ### Languages and Tools:
 
